@@ -1,0 +1,6 @@
+﻿  mergelists.cpp
+d:\coding\contest\mergelists.cpp(69): warning C4101: ex: неиспользованная локальная переменная
+d:\coding\contest\mergelists.cpp(225): warning C4101: tmp: неиспользованная локальная переменная
+d:\coding\contest\mergelists.cpp(264): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\coding\contest\mergelists.cpp(274): warning C4018: <: несоответствие типов со знаком и без знака
+  Contest.vcxproj -> D:\Coding\Debug\Contest.exe
